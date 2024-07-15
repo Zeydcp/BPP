@@ -2,7 +2,7 @@
 
 The main focus is the Assets folder which contains all the project files I worked on. Particularly Assets/Scripts which has all the scripts I wrote in C# using a .NET framework.
 
-To install the game on Windows 64-bit click here [setup](Builds/Windows/Installer), then run the executable.
+To install the game on Windows 64-bit click here [setup](Builds/Windows/Installer/Setup.exe), then download the executable.
 
 ## Controls for game:
 - Navigation: →, ←, ↑, ↓ keys represent movement along x-z plane, W and S keys represent up and down movement respectively in y-axis.
